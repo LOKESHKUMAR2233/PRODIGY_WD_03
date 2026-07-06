@@ -21,7 +21,8 @@ A responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="955" height="442" alt="image" src="https://github.com/user-attachments/assets/7e62f13d-b7f2-46e9-9e16-baddcd5b9626" />
+
 
 ## Author
 
